@@ -1,0 +1,3 @@
+{ "datafile": "flu_tweets_test.json" ,
+  "statesfile": "states.json" , 
+  "logfile" : "log.txt" }
